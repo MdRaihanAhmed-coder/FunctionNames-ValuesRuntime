@@ -7,3 +7,6 @@ If a basic block calls a basic block from two branches then it will go to that b
 ##Build
  - simply run make to run the code
  - the pass name is funcCalls.cpp
+ 
+ 
+ [This will get the values correctly.]
